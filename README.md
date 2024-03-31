@@ -6,8 +6,10 @@
 
 Hello, fellow explorer! I'm Hasitha Chathurangapriya, a curious soul journeying through the realms of technology and accounting. Come along as we venture through the wonders of code and numbers!
 
-<!-- Animation Container -->
-<div id="animation-container" style="position: relative; width: 100%; height: 200px;"></div>
+<!-- Animation -->
+<div align="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="JavaScript Animation">
+</div>
 
 ## 🎓 Academic Odyssey
 
@@ -51,26 +53,3 @@ Dive into the adventure with me! Let's explore, innovate, and create together. R
 ## 📍 Where to Find Me
 
 No.14, Malpitiya, Boyagane
-
-<!-- JavaScript Animation -->
-<script>
-// Animation Function
-function animate() {
-  const animationContainer = document.getElementById('animation-container');
-  let position = 0;
-  const direction = 1;
-  
-  setInterval(() => {
-    position += direction;
-    if (position >= animationContainer.offsetWidth) {
-      direction = -1;
-    } else if (position <= 0) {
-      direction = 1;
-    }
-    animationContainer.style.left = position + 'px';
-  }, 10);
-}
-
-// Start Animation
-animate();
-</script>
