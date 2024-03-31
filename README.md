@@ -1,16 +1,51 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://i.imgur.com/yourimage.png" alt="Hasitha Chathurangapriya">
+</div>
 
-<!--
-**Hasitha-Chathurangapriya/Hasitha-Chathurangapriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌟 Welcome to Hasitha's Wonderland 🚀
 
-Here are some ideas to get you started:
+Hello, fellow explorer! I'm Hasitha Chathurangapriya, a curious soul journeying through the realms of technology and accounting. Come along as we venture through the wonders of code and numbers!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Academic Odyssey
+
+- 📚 **BSc Hons (Information Systems) [Reading]**
+  - *2021 - 2025*
+
+- 🌐 **Training Course on MERN Stack**
+  - *University of Colombo School of Computing*
+  - *Jan 2024*
+
+- 📜 **Diploma in Accounting & Business**
+  - *AAT Sri Lanka*
+  - *2017 - 2021*
+
+## 💼 Professional Quest
+
+- 💼 **Audit Trainee**
+  - *Wickramasinghe Dayananda - Kurunegala*
+  - *Sep 2019 - Apr 2021*
+
+## 🔧 Skills & Technologies Toolbox
+
+<div align="center">
+  <img src="https://i.imgur.com/techtoolbox.png" alt="Skills & Technologies Toolbox">
+</div>
+
+- 🖥️ **Frontend:** HTML5, CSS3, JavaScript
+- 🛠️ **Frameworks/Libraries:** Spring Boot, Angular, React.js
+- 🛢️ **Databases:** MySQL, MongoDB
+- 🌐 **Backend:** Node.js, Express.js
+- 🎨 **UI Frameworks:** Bootstrap, Material-UI
+- 🛠️ **IDEs/Tools:** Intellij, VS Code, Postman
+
+## 📫 Connect & Collaborate
+
+Dive into the adventure with me! Let's explore, innovate, and create together. Reach out via email or phone, or better yet, let's grab a virtual coffee and brainstorm ideas!
+
+- 📧 **Email:** hasithachathuranga572@gmail.com
+- 📱 **Phone:** +94720123910
+
+## 📍 Where to Find Me
+
+No.14, Malpitiya, Boyagane
+
