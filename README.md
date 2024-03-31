@@ -1,55 +1,16 @@
-<div align="center">
-  <img src="https://i.imgur.com/yourimage.png" alt="Hasitha Chathurangapriya">
-</div>
+<h1 align="center">Hi 👋, I'm Hasitha-Chathurangapriya</h1>
+<h3 align="center">Undergraduate at Rajarata University of Sri Lanka</h3>
 
-# 🌟 Welcome to Hasitha's Wonderland 🚀
+- 🌱 I’m currently learning **MERN Stack**
 
-Hello, fellow explorer! I'm Hasitha Chathurangapriya, a curious soul journeying through the realms of technology and accounting. Come along as we venture through the wonders of code and numbers!
+- 📝 I regularly write articles on [https://maverick-hc.blogspot.com/](https://maverick-hc.blogspot.com/)
 
-<!-- Animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="JavaScript Animation">
-</div>
+- 📫 How to reach me **hasithachathurangapriya@gmail.com**
 
-## 🎓 Academic Odyssey
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hasitha chathurangapriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasitha chathurangapriya" height="30" width="40" /></a>
+</p>
 
-- 📚 **BSc Hons (Information Systems) [Reading]**
-  - *2021 - 2025*
-
-- 🌐 **Training Course on MERN Stack**
-  - *University of Colombo School of Computing*
-  - *Jan 2024*
-
-- 📜 **Diploma in Accounting & Business**
-  - *AAT Sri Lanka*
-  - *2017 - 2021*
-
-## 💼 Professional Quest
-
-- 💼 **Audit Trainee**
-  - *Wickramasinghe Dayananda - Kurunegala*
-  - *Sep 2019 - Apr 2021*
-
-## 🔧 Skills & Technologies Toolbox
-
-<div align="center">
-  <img src="https://i.imgur.com/techtoolbox.png" alt="Skills & Technologies Toolbox">
-</div>
-
-- 🖥️ **Frontend:** HTML5, CSS3, JavaScript
-- 🛠️ **Frameworks/Libraries:** Spring Boot, Angular, React.js
-- 🛢️ **Databases:** MySQL, MongoDB
-- 🌐 **Backend:** Node.js, Express.js
-- 🎨 **UI Frameworks:** Bootstrap, Material-UI
-- 🛠️ **IDEs/Tools:** Intellij, VS Code, Postman
-
-## 📫 Connect & Collaborate
-
-Dive into the adventure with me! Let's explore, innovate, and create together. Reach out via email or phone, or better yet, let's grab a virtual coffee and brainstorm ideas!
-
-- 📧 **Email:** hasithachathuranga572@gmail.com
-- 📱 **Phone:** +94720123910
-
-## 📍 Where to Find Me
-
-No.14, Malpitiya, Boyagane
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
