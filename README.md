@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasitha Chathurangapriya</h1>
+<h1 align="center">Hi 👋, I'm Hasitha</h1>
 <h3 align="center">Undergraduate at Rajarata University of Sri Lanka</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
